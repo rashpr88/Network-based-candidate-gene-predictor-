@@ -17,6 +17,6 @@ Future improvements
 
 •	User to specify taxon 
 •	Connect to a data base and improve annotations for references for all available taxons
-•	Add a progress bar while user waits for results 
+•	Gui improvements 
 
 
