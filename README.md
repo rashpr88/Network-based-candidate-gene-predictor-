@@ -16,7 +16,7 @@ Functionalities:
 Future improvements
 
 •	User to specify taxon 
-•	Connect to a data base and improve annotations for references for all available taxons
+•	Connect to a database and improve annotations for references for all available taxons
 •	Gui improvements 
 
 
