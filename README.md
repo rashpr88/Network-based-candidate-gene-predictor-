@@ -10,7 +10,7 @@ Functionalities:
 •	Predict candidate genes for identified functionalities in the network from proteins with unknown functionalities greater than 80th percentile of the scores.
 •	Predict for multiple functionalities from unknown proteins in the network.
 •	Predict most accurate functionality for each protein.
-•	Taxonomy specific. (Here used taxon is Arabidopsis thaliana)
+•	Taxonomy specific. (Arabidopsis thaliana is used as the taxon here)
 
 
 Future improvements
