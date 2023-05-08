@@ -1,22 +1,3 @@
 # Network-based-candidate-gene-predictor
-My individual software project under the course Special Topics In Bioinformatics.
-Based on file handling, Hishigaki and Majority Voting algorithms.
-
-
-
-Functionalities:
-•	Construct network graph related to the input file
-•	Based on two algorithms namely ‘Majority voting score’ and ‘Hishigaki algorithm’ where the user can select the preferred algorithm.
-•	Predict candidate genes for identified functionalities in the network from proteins with unknown functionalities greater than 80th percentile of the scores.
-•	Predict for multiple functionalities from unknown proteins in the network.
-•	Predict most accurate functionality for each protein.
-•	Taxonomy specific. (Arabidopsis thaliana is used as the taxon here)
-
-
-Future improvements
-
-•	User to specify taxon 
-•	Connect to a database and improve annotations for all available taxons
-•	Gui improvements 
-
+The objective of this project is to utilize file handling, Hishigaki, and Majority Voting algorithms to offer various features, such as the ability to generate a network graph from the input file. Users can choose between two algorithms, Majority Voting and Hishigaki, to predict candidate proteins for identified functionalities in the network from proteins with unknown functionalities. The software can also forecast multiple functionalities for unknown proteins and accurately determine their most likely functionality. Additionally, the program is tailored to be taxonomy-specific, with Arabidopsis thaliana being the chosen taxon.
 
